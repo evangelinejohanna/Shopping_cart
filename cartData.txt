@@ -1,0 +1,3 @@
+Apple,50,3
+Banana,60,5
+Milk,100,2
