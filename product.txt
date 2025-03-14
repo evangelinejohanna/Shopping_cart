@@ -1,0 +1,4 @@
+Chips-40
+Cookies-30
+Bread-50
+Cupcake-60
